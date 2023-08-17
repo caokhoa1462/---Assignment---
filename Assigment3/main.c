@@ -3,7 +3,8 @@
 #include <limits.h>
 #include <float.h>
 
-int main() {
+int main() 
+{
     while (1) 
     {
         char a[10];
